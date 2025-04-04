@@ -85,7 +85,7 @@
     "eslint-plugin-vue": "6.2.2",
     "full-icu": "1.3.1",
     "jest-serializer-vue": "0.3.0",
-    "rollup": "2.12.0",
+    "rollup": "2.79.2",
     "rollup-copy-plugin": "0.1.0",
     "rollup-plugin-terser": "6.1.0",
     "rollup-plugin-vue": "5.1.9",
